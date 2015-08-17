@@ -35,4 +35,6 @@ dependencies {
     }
     compile 'com.malinskiy:superrecyclerview:1.1.0'
     compile 'com.pnikosis:materialish-progress:1.5'
+    compile 'com.mikepenz:iconics:1.6.2@aar'
+    compile 'com.mikepenz:community-material-typeface:1.1.71@aar'
 }
